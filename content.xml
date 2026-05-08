@@ -1,0 +1,2819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508135133F6JR7V</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508135133MLSCVX</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Buenas noticias</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SdA 2.º ESO en la materia de Lengua Castellana y Literatura</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Lourdes Herrero Beltrán</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje para 2.º ESO en la materia de Lengua Castellana y Literatura</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778241071853</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mowutkeh-6uk34kj2o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Buenas noticias</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Buenas noticias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Buenas noticias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkeh-6uk34kj2o</odePageId>
+      <odeBlockId>block-1777912541154-4ni9fe0h5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkeh-6uk34kj2o</odePageId>
+          <odeBlockId>block-1777912541154-4ni9fe0h5</odeBlockId>
+          <odeIdeviceId>idevice-1777912541152-cvn5awxn3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/BUENAS NOTICIAS.png" width="1024" height="768" alt="" /></p>
+<h6 style="text-align: right;">Imagen adquirida del recurso Canva Educación</h6>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777912541152-cvn5awxn3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/BUENAS NOTICIAS.png\" width=\"1024\" height=\"768\" alt=\"\" /></p>\n<h6 style=\"text-align: right;\">Imagen adquirida del recurso Canva Educación</h6>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkeh-6uk34kj2o</odePageId>
+      <odeBlockId>block-1777914220204-hkxkn0f8o</odeBlockId>
+      <blockName></blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkeh-6uk34kj2o</odePageId>
+          <odeBlockId>block-1777914220204-hkxkn0f8o</odeBlockId>
+          <odeIdeviceId>idevice-1777914220201-y9rvf1y3z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vivimos en un momento en el que estamos rodeados de información constantemente. Cada día, a través de redes como Instagram o TikTok, recibimos noticias, opiniones y contenidos que influyen en lo que pensamos y en cómo vemos el mundo. Muchas veces, estos contenidos nos llevan incluso a periódicos o fuentes más formales, pero… ¿sabemos siempre interpretar lo que leemos? ¿Somos capaces de distinguir lo importante de lo superficial o incluso de lo engañoso?</p>
+<p>En esta Situación de Aprendizaje vamos a trabajar precisamente eso: aprender a leer el mundo con mirada crítica. Partiremos de algo muy cercano a vosotros, como es vuestra relación con las redes sociales y la información digital, para reflexionar sobre temas actuales que os preocupan, como ya habéis demostrado en clase y en actividades como el cuestionario <a href="https://zemos98.org/portfolio_page/proxymo-cultura-de-internet-y-educacion-mediatica/" title="">PROXYMO</a>. Hablaremos de la sobrecarga informativa, de cómo nos afecta emocionalmente y de cómo podemos gestionar mejor todo lo que recibimos.</p>
+<p>Además, utilizaremos herramientas digitales del centro —Chromebooks, tablets y el aula de informática— para investigar, crear y compartir nuestros propios contenidos. El objetivo no es solo comprender mejor la información, sino también aprender a comunicar de forma clara, responsable y creativa.</p>
+<p>Porque hoy en día no basta con leer: hay que saber entender, cuestionar y expresar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914220201-y9rvf1y3z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vivimos en un momento en el que estamos rodeados de información constantemente. Cada día, a través de redes como Instagram o TikTok, recibimos noticias, opiniones y contenidos que influyen en lo que pensamos y en cómo vemos el mundo. Muchas veces, estos contenidos nos llevan incluso a periódicos o fuentes más formales, pero… ¿sabemos siempre interpretar lo que leemos? ¿Somos capaces de distinguir lo importante de lo superficial o incluso de lo engañoso?</p>\n<p>En esta Situación de Aprendizaje vamos a trabajar precisamente eso: aprender a leer el mundo con mirada crítica. Partiremos de algo muy cercano a vosotros, como es vuestra relación con las redes sociales y la información digital, para reflexionar sobre temas actuales que os preocupan, como ya habéis demostrado en clase y en actividades como el cuestionario <a href=\"https://zemos98.org/portfolio_page/proxymo-cultura-de-internet-y-educacion-mediatica/\" title=\"\">PROXYMO</a>. Hablaremos de la sobrecarga informativa, de cómo nos afecta emocionalmente y de cómo podemos gestionar mejor todo lo que recibimos.</p>\n<p>Además, utilizaremos herramientas digitales del centro —Chromebooks, tablets y el aula de informática— para investigar, crear y compartir nuestros propios contenidos. El objetivo no es solo comprender mejor la información, sino también aprender a comunicar de forma clara, responsable y creativa.</p>\n<p>Porque hoy en día no basta con leer: hay que saber entender, cuestionar y expresar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkeh-6uk34kj2o</odePageId>
+      <odeBlockId>block-1777914359638-gjgeohtii</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkeh-6uk34kj2o</odePageId>
+          <odeBlockId>block-1777914359638-gjgeohtii</odeBlockId>
+          <odeIdeviceId>idevice-1777914359634-b4myszurm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En una era caracterizada por la sobreinformación, es imprescindible saber filtrar la que recibimos día a día, no solo por su fiabilidad, sino también por la repercusión que tiene en nuestro estado de ánimo. Por este motivo, es necesario que el alumnado sea consciente de la selección de los medios de comunicación y de los datos que los rodean, atendiendo también a las buenas noticias que pueden ayudar al bienestar emocional. De esta forma, en la SdA “Buenas noticias” trabajaremos el género periodístico de la noticia atendiendo a las emociones del lector, teniendo en consideración que la información que recibimos nos suscita ciertos sentimientos. El producto final de la SdA conllevará la creación de un periódico donde se recoja información positiva que no ha tenido la cabida que merece en la prensa y las redes sociales. Este proyecto se llevará a cabo en español a lo largo de unas 8 sesiones, y será un trabajo interdisciplinar junto a la asignatura de Tecnología y Digitalización.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914359634-b4myszurm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En una era caracterizada por la sobreinformación, es imprescindible saber filtrar la que recibimos día a día, no solo por su fiabilidad, sino también por la repercusión que tiene en nuestro estado de ánimo. Por este motivo, es necesario que el alumnado sea consciente de la selección de los medios de comunicación y de los datos que los rodean, atendiendo también a las buenas noticias que pueden ayudar al bienestar emocional. De esta forma, en la SdA “Buenas noticias” trabajaremos el género periodístico de la noticia atendiendo a las emociones del lector, teniendo en consideración que la información que recibimos nos suscita ciertos sentimientos. El producto final de la SdA conllevará la creación de un periódico donde se recoja información positiva que no ha tenido la cabida que merece en la prensa y las redes sociales. Este proyecto se llevará a cabo en español a lo largo de unas 8 sesiones, y será un trabajo interdisciplinar junto a la asignatura de Tecnología y Digitalización.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkem-iknrql1sa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkem-iknrql1sa</odePageId>
+      <odeBlockId>block-1777910947043-70wio6p1l</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkem-iknrql1sa</odePageId>
+          <odeBlockId>block-1777910947043-70wio6p1l</odeBlockId>
+          <odeIdeviceId>idevice-1777910947038-aiakksf12</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado se registra el contenido curricular de la SdA: Buenas noticias.</p>
+<ul>
+<li><a href="competencias-especificas-criterios-de-evaluacion-y.html">Competencias específicas, criterios de evaluación y saberes básicos</a></li>
+<li><a href="relacion-de-los-criterios-de-evaluacion-con-las-ta.html" title="">Relación de los criterios de evaluación con las tareas planteadas</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777910947038-aiakksf12","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado se registra el contenido curricular de la SdA: Buenas noticias.</p>\n<ul>\n<li><a href=\"exe-node:page-mowutken-95agkdvmv\">Competencias específicas, criterios de evaluación y saberes básicos</a></li>\n<li><a href=\"exe-node:page-mowutkep-5ul58iqy7\" title=\"\">Relación de los criterios de evaluación con las tareas planteadas</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutken-95agkdvmv</odePageId>
+  <odeParentPageId>page-mowutkem-iknrql1sa</odeParentPageId>
+  <pageName>Competencias específicas, criterios de evaluación y saberes básicos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas, criterios de evaluación y saberes básicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas, criterios de evaluación y saberes básicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Competencias específicas, criterios de evaluación y saberes básicos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutken-95agkdvmv</odePageId>
+      <odeBlockId>block-1777916445073-x9jo7ytrb</odeBlockId>
+      <blockName>2.º ESO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutken-95agkdvmv</odePageId>
+          <odeBlockId>block-1777916445073-x9jo7ytrb</odeBlockId>
+          <odeIdeviceId>idevice-1777916444933-tah4hvvav</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="5" style="width: 100%; border-color: #169179; border-style: solid; margin-left: auto; margin-right: auto; height: 1861px;">
+<tbody>
+<tr style="height: 41.6px;">
+<td style="width: 33.2944%; border: 5px solid #169179; height: 41.6px;"><strong>Competencias específicas</strong></td>
+<td style="width: 33.528%; border: 5px solid #169179; height: 41.6px;"><strong>Criterios de evaluación</strong></td>
+<td style="width: 33.1776%; border: 5px solid #169179; height: 41.6px;"><strong>Saberes básicos</strong></td>
+</tr>
+<tr style="height: 444.8px;">
+<td style="width: 33.2944%; text-align: justify; border: 5px solid #169179; height: 444.8px;">2. Comprender e interpretar textos orales y multimodales recogiendo el sentido general y la información más relevante, identificando el punto de vista y la intención del emisor y valorando su fiabilidad, su forma y su contenido, para construir conocimiento, formarse opinión y ensanchar las posibilidades de<br />disfrute y ocio.</td>
+<td style="width: 33.528%; border: 5px solid #169179; text-align: justify; height: 444.8px;">2.2. Valorar de manera progresivamente autónoma la forma y el contenido de textos orales y multimodales sencillos que sean significativos para el alumnado y que aborden temas de relevancia social, evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados para hacer frente a los riesgos de manipulación y desinformación.</td>
+<td style="width: 33.1776%; border: 5px solid #169179; height: 444.8px;">LCL.2.B.1.<br />LCL.2.B.2.3.<br />LCL.2.B.2.5.<br />LCL.2.B.3.1.<br />LCL.2.B.3.2.<br />LCL.2.B.4.2.</td>
+</tr>
+<tr style="height: 416px;">
+<td style="width: 33.2944%; text-align: justify; border: 5px solid #169179; height: 416px;">3. Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales.</td>
+<td style="width: 33.528%; text-align: justify; border: 5px solid #169179; height: 416px;">3.2. Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.</td>
+<td style="width: 33.1776%; border: 5px solid #169179; height: 416px;">LCL.2.B.1.<br />LCL.2.B.2.3.<br />LCL.2.B.3.1.<br />LCL.2.B.3.3.<br />LCL.2.B.4.2.</td>
+</tr>
+<tr style="height: 513.8px;">
+<td style="width: 33.2944%; text-align: justify; border: 5px solid #169179; height: 513.8px;">5. Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos atendiendo a las convenciones propias del género discursivo elegido, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas.</td>
+<td style="width: 33.528%; border: 2px solid #169179; height: 513.8px;">
+<p>5.1. Planificar la redacción de textos escritos y multimodales básicos y sencillos, atendiendo a la situación comunicativa, destinatario, propósito y canal. La tomar apuntes, esquemas, mapas conceptuales o resúmenes.</p>
+<p></p>
+<p>5.2. Incorporar progresivamente algunos procedimientos lingüísticos básicos para enriquecer los textos con precisión léxica y corrección ortográfica y gramatical.</p>
+</td>
+<td style="width: 33.1776%; border: 2px solid #169179; height: 513.8px;">
+<p>LCL.2.B.1.<br />LCL.2.B.3.1.<br />LCL.2.B.3.5.<br />LCL.2.B.3.6.<br />LCL.2.B.4.2.</p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p>LCL.2.B.1.<br />LCL.2.B.2.2.<br />LCL.2.B.3.1.<br />LCL.2.B.3.5.<br />LCL.2.B.4.4.<br />LCL.2.B.4.5.<br />LCL.2.B.4.6.</p>
+</td>
+</tr>
+<tr style="height: 444.8px;">
+<td style="width: 33.2944%; text-align: justify; border: 5px solid #169179; height: 444.8px;">6. Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento para comunicarla, adoptando un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual.</td>
+<td style="width: 33.528%; text-align: justify; border: 5px solid #169179; height: 444.8px;">6.1. Localizar y seleccionar de manera dirigida información procedente de diferentes fuentes; organizarla e integrarla en esquemas propios y reelaborarla, atendiendo a esquemas dados.</td>
+<td style="width: 33.1776%; border: 5px solid #169179; height: 444.8px;">LCL.2.B.2.<br />LCL.2.B.3.4.<br />LCL.2.B.3.5.<br />LCL.2.B.3.6.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777916444933-tah4hvvav","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"5\" style=\"width: 100%; border-color: #169179; border-style: solid; margin-left: auto; margin-right: auto; height: 1861px;\">\n<tbody>\n<tr style=\"height: 41.6px;\">\n<td style=\"width: 33.2944%; border: 5px solid #169179; height: 41.6px;\"><strong>Competencias específicas</strong></td>\n<td style=\"width: 33.528%; border: 5px solid #169179; height: 41.6px;\"><strong>Criterios de evaluación</strong></td>\n<td style=\"width: 33.1776%; border: 5px solid #169179; height: 41.6px;\"><strong>Saberes básicos</strong></td>\n</tr>\n<tr style=\"height: 444.8px;\">\n<td style=\"width: 33.2944%; text-align: justify; border: 5px solid #169179; height: 444.8px;\">2. Comprender e interpretar textos orales y multimodales recogiendo el sentido general y la información más relevante, identificando el punto de vista y la intención del emisor y valorando su fiabilidad, su forma y su contenido, para construir conocimiento, formarse opinión y ensanchar las posibilidades de<br />disfrute y ocio.</td>\n<td style=\"width: 33.528%; border: 5px solid #169179; text-align: justify; height: 444.8px;\">2.2. Valorar de manera progresivamente autónoma la forma y el contenido de textos orales y multimodales sencillos que sean significativos para el alumnado y que aborden temas de relevancia social, evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados para hacer frente a los riesgos de manipulación y desinformación.</td>\n<td style=\"width: 33.1776%; border: 5px solid #169179; height: 444.8px;\">LCL.2.B.1.<br />LCL.2.B.2.3.<br />LCL.2.B.2.5.<br />LCL.2.B.3.1.<br />LCL.2.B.3.2.<br />LCL.2.B.4.2.</td>\n</tr>\n<tr style=\"height: 416px;\">\n<td style=\"width: 33.2944%; text-align: justify; border: 5px solid #169179; height: 416px;\">3. Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales.</td>\n<td style=\"width: 33.528%; text-align: justify; border: 5px solid #169179; height: 416px;\">3.2. Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.</td>\n<td style=\"width: 33.1776%; border: 5px solid #169179; height: 416px;\">LCL.2.B.1.<br />LCL.2.B.2.3.<br />LCL.2.B.3.1.<br />LCL.2.B.3.3.<br />LCL.2.B.4.2.</td>\n</tr>\n<tr style=\"height: 513.8px;\">\n<td style=\"width: 33.2944%; text-align: justify; border: 5px solid #169179; height: 513.8px;\">5. Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos atendiendo a las convenciones propias del género discursivo elegido, para construir conocimiento y dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas.</td>\n<td style=\"width: 33.528%; border: 2px solid #169179; height: 513.8px;\">\n<p>5.1. Planificar la redacción de textos escritos y multimodales básicos y sencillos, atendiendo a la situación comunicativa, destinatario, propósito y canal. La tomar apuntes, esquemas, mapas conceptuales o resúmenes.</p>\n<p></p>\n<p>5.2. Incorporar progresivamente algunos procedimientos lingüísticos básicos para enriquecer los textos con precisión léxica y corrección ortográfica y gramatical.</p>\n</td>\n<td style=\"width: 33.1776%; border: 2px solid #169179; height: 513.8px;\">\n<p>LCL.2.B.1.<br />LCL.2.B.3.1.<br />LCL.2.B.3.5.<br />LCL.2.B.3.6.<br />LCL.2.B.4.2.</p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p>LCL.2.B.1.<br />LCL.2.B.2.2.<br />LCL.2.B.3.1.<br />LCL.2.B.3.5.<br />LCL.2.B.4.4.<br />LCL.2.B.4.5.<br />LCL.2.B.4.6.</p>\n</td>\n</tr>\n<tr style=\"height: 444.8px;\">\n<td style=\"width: 33.2944%; text-align: justify; border: 5px solid #169179; height: 444.8px;\">6. Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento para comunicarla, adoptando un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual.</td>\n<td style=\"width: 33.528%; text-align: justify; border: 5px solid #169179; height: 444.8px;\">6.1. Localizar y seleccionar de manera dirigida información procedente de diferentes fuentes; organizarla e integrarla en esquemas propios y reelaborarla, atendiendo a esquemas dados.</td>\n<td style=\"width: 33.1776%; border: 5px solid #169179; height: 444.8px;\">LCL.2.B.2.<br />LCL.2.B.3.4.<br />LCL.2.B.3.5.<br />LCL.2.B.3.6.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkep-5ul58iqy7</odePageId>
+  <odeParentPageId>page-mowutkem-iknrql1sa</odeParentPageId>
+  <pageName>Relación de los criterios de evaluación con las tareas planteadas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación de los criterios de evaluación con las tareas planteadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación de los criterios de evaluación con las tareas planteadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkep-5ul58iqy7</odePageId>
+      <odeBlockId>block-1777918173367-rj0kdqhn8</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkep-5ul58iqy7</odePageId>
+          <odeBlockId>block-1777918173367-rj0kdqhn8</odeBlockId>
+          <odeIdeviceId>idevice-1777918173350-0xvv5cgq2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 88.4061%; height: 1126px;">
+<tbody>
+<tr style="height: 99.2px;">
+<td style="width: 22.9062%; height: 99.2px; border: 5px solid #169179;">
+<h6><strong>TAREA</strong></h6>
+</td>
+<td style="width: 17.299%; height: 99.2px; border: 5px solid #169179;">
+<h6><strong>CRITERIO DE EVALUACIÓN</strong></h6>
+</td>
+<td style="width: 22.7869%; height: 99.2px; border: 5px solid #169179;">
+<h6><strong>AGRUPAMIENTO</strong></h6>
+</td>
+<td style="width: 16.1059%; height: 99.2px; border: 5px solid #169179;">
+<h6><strong>TIEMPO ESTIMADO</strong></h6>
+</td>
+<td style="width: 20.8781%; height: 99.2px; border: 5px solid #169179;">
+<h6><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></h6>
+</td>
+</tr>
+<tr style="height: 142.4px;">
+<td style="width: 22.9062%; height: 142.4px; border: 5px solid #169179; text-align: justify;">Actividad de motivación: escribe una noticia absurda.</td>
+<td style="width: 17.299%; height: 142.4px; border: 5px solid #169179;">5.1, 5.2</td>
+<td style="width: 22.7869%; height: 142.4px; border: 5px solid #169179;">Parejas</td>
+<td style="width: 16.1059%; height: 142.4px; border: 5px solid #169179;">1 sesión (50 mins)</td>
+<td style="width: 20.8781%; height: 142.4px; border: 5px solid #169179;">Google Docs</td>
+</tr>
+<tr style="height: 34.4px;">
+<td style="width: 22.9062%; height: 34.4px; border: 5px solid #169179;">Actividad de motivación: descarta las <em>fake news.</em></td>
+<td style="width: 17.299%; height: 34.4px; border: 5px solid #169179;">2.2</td>
+<td style="width: 22.7869%; height: 34.4px; border: 5px solid #169179;">6 grupos de 5 alumnos/as</td>
+<td style="width: 16.1059%; height: 34.4px; border: 5px solid #169179;">1 sesión (15 mins)</td>
+<td style="width: 20.8781%; height: 34.4px; border: 5px solid #169179;">Genially</td>
+</tr>
+<tr style="height: 34.4px;">
+<td style="width: 22.9062%; height: 34.4px; border: 5px solid #169179;">Actividad de estructuración: dossier de fuentes fiables.</td>
+<td style="width: 17.299%; height: 34.4px; border: 5px solid #169179;">6.1</td>
+<td style="width: 22.7869%; height: 34.4px; border: 5px solid #169179;">Individual</td>
+<td style="width: 16.1059%; height: 34.4px; border: 5px solid #169179;">2 sesiones</td>
+<td style="width: 20.8781%; height: 34.4px; border: 5px solid #169179;">Google Docs</td>
+</tr>
+<tr style="height: 34.4px;">
+<td style="width: 22.9062%; height: 34.4px; border: 5px solid #169179;">Actividad de estructuración: decálogo para el buen uso de las fuentes de información.</td>
+<td style="width: 17.299%; height: 34.4px; border: 5px solid #169179;">5.1</td>
+<td style="width: 22.7869%; height: 34.4px; border: 5px solid #169179;">10 grupos de 3 alumnos</td>
+<td style="width: 16.1059%; height: 34.4px; border: 5px solid #169179;">1 sesión</td>
+<td style="width: 20.8781%; height: 34.4px; border: 5px solid #169179;">Ease.ly</td>
+</tr>
+<tr style="height: 34.4px;">
+<td style="width: 22.9062%; height: 34.4px; border: 5px solid #169179;">Actividad de motivación: la rueda de las emociones.</td>
+<td style="width: 17.299%; height: 34.4px; border: 5px solid #169179;">3.2</td>
+<td style="width: 22.7869%; height: 34.4px; border: 5px solid #169179;">Individual</td>
+<td style="width: 16.1059%; height: 34.4px; border: 5px solid #169179;">1 sesión</td>
+<td style="width: 20.8781%; height: 34.4px; border: 5px solid #169179;">Google Forms</td>
+</tr>
+<tr style="height: 34.4px;">
+<td style="width: 22.9062%; height: 34.4px; border: 5px solid #169179;">Actividad de exploración: recopilación de noticias positivas.</td>
+<td style="width: 17.299%; height: 34.4px; border: 5px solid #169179;">6.1</td>
+<td style="width: 22.7869%; height: 34.4px; border: 5px solid #169179;">6 grupos de 5 alumnos</td>
+<td style="width: 16.1059%; height: 34.4px; border: 5px solid #169179;">2 sesiones</td>
+<td style="width: 20.8781%; height: 34.4px; border: 5px solid #169179;">Flipboard/Padlet</td>
+</tr>
+<tr style="height: 34.4px;">
+<td style="width: 22.9062%; height: 34.4px; border: 5px solid #169179;">Actividad de aplicación: maquetación de un periódico con noticias positivas.</td>
+<td style="width: 17.299%; height: 34.4px; border: 5px solid #169179;">6.1</td>
+<td style="width: 22.7869%; height: 34.4px; border: 5px solid #169179;">6 grupos de 5 alumnos</td>
+<td style="width: 16.1059%; height: 34.4px; border: 5px solid #169179;">2 sesiones</td>
+<td style="width: 20.8781%; height: 34.4px; border: 5px solid #169179;">Canva</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777918173350-0xvv5cgq2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 88.4061%; height: 1126px;\">\n<tbody>\n<tr style=\"height: 99.2px;\">\n<td style=\"width: 22.9062%; height: 99.2px; border: 5px solid #169179;\">\n<h6><strong>TAREA</strong></h6>\n</td>\n<td style=\"width: 17.299%; height: 99.2px; border: 5px solid #169179;\">\n<h6><strong>CRITERIO DE EVALUACIÓN</strong></h6>\n</td>\n<td style=\"width: 22.7869%; height: 99.2px; border: 5px solid #169179;\">\n<h6><strong>AGRUPAMIENTO</strong></h6>\n</td>\n<td style=\"width: 16.1059%; height: 99.2px; border: 5px solid #169179;\">\n<h6><strong>TIEMPO ESTIMADO</strong></h6>\n</td>\n<td style=\"width: 20.8781%; height: 99.2px; border: 5px solid #169179;\">\n<h6><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></h6>\n</td>\n</tr>\n<tr style=\"height: 142.4px;\">\n<td style=\"width: 22.9062%; height: 142.4px; border: 5px solid #169179; text-align: justify;\">Actividad de motivación: escribe una noticia absurda.</td>\n<td style=\"width: 17.299%; height: 142.4px; border: 5px solid #169179;\">5.1, 5.2</td>\n<td style=\"width: 22.7869%; height: 142.4px; border: 5px solid #169179;\">Parejas</td>\n<td style=\"width: 16.1059%; height: 142.4px; border: 5px solid #169179;\">1 sesión (50 mins)</td>\n<td style=\"width: 20.8781%; height: 142.4px; border: 5px solid #169179;\">Google Docs</td>\n</tr>\n<tr style=\"height: 34.4px;\">\n<td style=\"width: 22.9062%; height: 34.4px; border: 5px solid #169179;\">Actividad de motivación: descarta las <em>fake news.</em></td>\n<td style=\"width: 17.299%; height: 34.4px; border: 5px solid #169179;\">2.2</td>\n<td style=\"width: 22.7869%; height: 34.4px; border: 5px solid #169179;\">6 grupos de 5 alumnos/as</td>\n<td style=\"width: 16.1059%; height: 34.4px; border: 5px solid #169179;\">1 sesión (15 mins)</td>\n<td style=\"width: 20.8781%; height: 34.4px; border: 5px solid #169179;\">Genially</td>\n</tr>\n<tr style=\"height: 34.4px;\">\n<td style=\"width: 22.9062%; height: 34.4px; border: 5px solid #169179;\">Actividad de estructuración: dossier de fuentes fiables.</td>\n<td style=\"width: 17.299%; height: 34.4px; border: 5px solid #169179;\">6.1</td>\n<td style=\"width: 22.7869%; height: 34.4px; border: 5px solid #169179;\">Individual</td>\n<td style=\"width: 16.1059%; height: 34.4px; border: 5px solid #169179;\">2 sesiones</td>\n<td style=\"width: 20.8781%; height: 34.4px; border: 5px solid #169179;\">Google Docs</td>\n</tr>\n<tr style=\"height: 34.4px;\">\n<td style=\"width: 22.9062%; height: 34.4px; border: 5px solid #169179;\">Actividad de estructuración: decálogo para el buen uso de las fuentes de información.</td>\n<td style=\"width: 17.299%; height: 34.4px; border: 5px solid #169179;\">5.1</td>\n<td style=\"width: 22.7869%; height: 34.4px; border: 5px solid #169179;\">10 grupos de 3 alumnos</td>\n<td style=\"width: 16.1059%; height: 34.4px; border: 5px solid #169179;\">1 sesión</td>\n<td style=\"width: 20.8781%; height: 34.4px; border: 5px solid #169179;\">Ease.ly</td>\n</tr>\n<tr style=\"height: 34.4px;\">\n<td style=\"width: 22.9062%; height: 34.4px; border: 5px solid #169179;\">Actividad de motivación: la rueda de las emociones.</td>\n<td style=\"width: 17.299%; height: 34.4px; border: 5px solid #169179;\">3.2</td>\n<td style=\"width: 22.7869%; height: 34.4px; border: 5px solid #169179;\">Individual</td>\n<td style=\"width: 16.1059%; height: 34.4px; border: 5px solid #169179;\">1 sesión</td>\n<td style=\"width: 20.8781%; height: 34.4px; border: 5px solid #169179;\">Google Forms</td>\n</tr>\n<tr style=\"height: 34.4px;\">\n<td style=\"width: 22.9062%; height: 34.4px; border: 5px solid #169179;\">Actividad de exploración: recopilación de noticias positivas.</td>\n<td style=\"width: 17.299%; height: 34.4px; border: 5px solid #169179;\">6.1</td>\n<td style=\"width: 22.7869%; height: 34.4px; border: 5px solid #169179;\">6 grupos de 5 alumnos</td>\n<td style=\"width: 16.1059%; height: 34.4px; border: 5px solid #169179;\">2 sesiones</td>\n<td style=\"width: 20.8781%; height: 34.4px; border: 5px solid #169179;\">Flipboard/Padlet</td>\n</tr>\n<tr style=\"height: 34.4px;\">\n<td style=\"width: 22.9062%; height: 34.4px; border: 5px solid #169179;\">Actividad de aplicación: maquetación de un periódico con noticias positivas.</td>\n<td style=\"width: 17.299%; height: 34.4px; border: 5px solid #169179;\">6.1</td>\n<td style=\"width: 22.7869%; height: 34.4px; border: 5px solid #169179;\">6 grupos de 5 alumnos</td>\n<td style=\"width: 16.1059%; height: 34.4px; border: 5px solid #169179;\">2 sesiones</td>\n<td style=\"width: 20.8781%; height: 34.4px; border: 5px solid #169179;\">Canva</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkeq-sk6ja3dfh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuencia didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkeq-sk6ja3dfh</odePageId>
+      <odeBlockId>block-1777981756143-u4h55m8np</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkeq-sk6ja3dfh</odePageId>
+          <odeBlockId>block-1777981756143-u4h55m8np</odeBlockId>
+          <odeIdeviceId>idevice-1777981756141-sv3dvb762</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado puedes comprobar la teoría y las actividades que van a trabajarse en cada sesión.</p>
+<p><a href="antes-de-empezar-guia-para-las-buenas-practicas-te.html" title="">Antes de empezar: guía para las buenas prácticas tecnológicas</a></p>
+<p><a href="sesion-1-la-noticia.html" title="">Sesión 1. La noticia</a></p>
+<p><a href="sesiones-2-y-3-fake-news.html" title="">Sesiones 2 y 3. Fake news</a></p>
+<p><a href="sesion-4-decalogo-del-buen-uso-de-las-fuentes-de-i.html" title="">Sesión 4. Decálogo del buen uso de las fuentes de información</a></p>
+<p><a href="sesion-5-la-rueda-de-las-emociones.html" title="">Sesión 5. La rueda de las emociones</a></p>
+<p><a href="sesiones-6-y-7-recopilacion-de-noticias-positivas.html" title="">Sesiones 6 y 7. Recopilación de noticias positivas</a></p>
+<p><a href="sesiones-8-y-9-maquetacion-del-periodico-buenas-no.html" title="">Sesiones 8 y 9. Maquetación del periódico "Buenas noticias"</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777981756141-sv3dvb762","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado puedes comprobar la teoría y las actividades que van a trabajarse en cada sesión.</p>\n<p><a href=\"exe-node:page-mowutkes-o0y7wwma9\" title=\"\">Antes de empezar: guía para las buenas prácticas tecnológicas</a></p>\n<p><a href=\"exe-node:page-mowutkeu-zerm6o0q0\" title=\"\">Sesión 1. La noticia</a></p>\n<p><a href=\"exe-node:page-mowutkew-83pnez6iy\" title=\"\">Sesiones 2 y 3. Fake news</a></p>\n<p><a href=\"exe-node:page-mowutkey-7o2my77ki\" title=\"\">Sesión 4. Decálogo del buen uso de las fuentes de información</a></p>\n<p><a href=\"exe-node:page-mowutkf0-njq732snn\" title=\"\">Sesión 5. La rueda de las emociones</a></p>\n<p><a href=\"exe-node:page-mowutkf2-2uy8mb43r\" title=\"\">Sesiones 6 y 7. Recopilación de noticias positivas</a></p>\n<p><a href=\"exe-node:page-mowutkf4-jky82mqcr\" title=\"\">Sesiones 8 y 9. Maquetación del periódico \"Buenas noticias\"</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkes-o0y7wwma9</odePageId>
+  <odeParentPageId>page-mowutkeq-sk6ja3dfh</odeParentPageId>
+  <pageName>Antes de empezar: guía para las buenas prácticas tecnológicas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Antes de empezar: guía para las buenas prácticas tecnológicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Antes de empezar: guía para las buenas prácticas tecnológicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkes-o0y7wwma9</odePageId>
+      <odeBlockId>block-1777922382384-e5k2cqvfl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkes-o0y7wwma9</odePageId>
+          <odeBlockId>block-1777922382384-e5k2cqvfl</odeBlockId>
+          <odeIdeviceId>idevice-1777922382383-9io6ng5no</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de estas clases va a ser imprescindible utilizar diversas herramientas digitales. La cuestión es que no siempre somos conscientes de los riesgos que puede haber al navegar por Internet, o lo que puede haber detrás de una publicación, un mensaje o una foto. Proteger nuestros datos, cuidar nuestras contraseñas y pensar antes de compartir información es fundamental para navegar de forma segura.</p>
+<p>Además, no solo se trata de evitar problemas: también aprenderéis a usar el entorno digital con responsabilidad, respetando los derechos de los demás y los vuestros propios. Porque ser usuarios digitales no es solo saber conectarse, sino saber cómo hacerlo de manera segura, crítica y responsable.</p>
+<p><img src="{{context_path}}/content/resources/infografía de pasos para hacer una infografía digital neon.png" width="800" height="2000" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777922382383-9io6ng5no","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de estas clases va a ser imprescindible utilizar diversas herramientas digitales. La cuestión es que no siempre somos conscientes de los riesgos que puede haber al navegar por Internet, o lo que puede haber detrás de una publicación, un mensaje o una foto. Proteger nuestros datos, cuidar nuestras contraseñas y pensar antes de compartir información es fundamental para navegar de forma segura.</p>\n<p>Además, no solo se trata de evitar problemas: también aprenderéis a usar el entorno digital con responsabilidad, respetando los derechos de los demás y los vuestros propios. Porque ser usuarios digitales no es solo saber conectarse, sino saber cómo hacerlo de manera segura, crítica y responsable.</p>\n<p><img src=\"{{context_path}}/content/resources/infografía de pasos para hacer una infografía digital neon.png\" width=\"800\" height=\"2000\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkeu-zerm6o0q0</odePageId>
+  <odeParentPageId>page-mowutkeq-sk6ja3dfh</odeParentPageId>
+  <pageName>Sesión 1. La noticia</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1. La noticia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1. La noticia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkeu-zerm6o0q0</odePageId>
+      <odeBlockId>block-1777982704057-5hp9fyiup</odeBlockId>
+      <blockName>La noticia</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkeu-zerm6o0q0</odePageId>
+          <odeBlockId>block-1777982704057-5hp9fyiup</odeBlockId>
+          <odeIdeviceId>idevice-1777982704054-5byfch416</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-carousel">
+<h2>¿Qué es la noticia?</h2>
+<p>La noticia es el género periodístico narrativo más representativo. Informa sobre hechos reales y recientes que son de interés social.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/20943515.jpg" width="500" height="500" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><span style="font-size: 12pt;">http://www.freepik.com</span></p>
+<h2>Ejemplo de noticia</h2>
+<p><strong>1. Lee el siguiente texto:</strong></p>
+<p style="text-align: center;"><strong>Alberto Díaz, Perry, Funes, 'Chupe' y Molina participan en una campaña de Málaga contra el acoso escolar</strong></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">La Diputación extenderá esta acción en municipios menores de 20 000 habitantes mediante veinte talleres dirigidos a escolares centrados en la prevención</span></p>
+<p style="text-align: center;"><strong><img src="{{context_path}}/content/resources/bee62a7e-45f8-49f4-b82b-6633fa18a4b4_16-9-aspect-ratio_1600w_0.webp" width="700" height="394" alt="" /></strong></p>
+<p><span style="font-size: 12pt;">30 de abril 2026 - 13:46</span></p>
+<p>Los jugadores de baloncesto del Unicaja Alberto Díaz y Kendrick Perry, el entrenador del Málaga, Juan Francisco Funes, el delantero 'Chupe' o el boxeador tricampeón de Europa Samuel Molina participan en la campaña 'El silencio también hace daño' de la Diputación de Málaga, que busca concienciar a la sociedad frente al acoso escolar.</p>
+<p>La iniciativa, que se pone en marcha con motivo del Día Internacional contra el Acoso Escolar que se conmemora este 2 de mayo, tiene como eje central un vídeo en el que participan personalidades del mundo del deporte y la cultura, además de creadores de contenido.</p>
+<p>En las imágenes, el entrenador del Málaga prioriza el respeto por encima de todo; Alberto Díaz llama a la acción si se presencia acoso, y su compañero Kendrick Perry incide en que frenar el acoso es una tarea colectiva: "todos podemos pararlo"; y el boxeador tricampeón de Europa subraya que ser fuerte "no es hacer daño, es defender".</p>
+<p>Además del vídeo, la campaña incluye la difusión de un cartel que visualiza el acoso escolar de un joven en solitario, y el reparto de más de 3 000 carteles por los centros educativos, instalaciones deportivas y espacios públicos.</p>
+<p>La institución provincial extenderá esta acción en municipios menores de 20 000 habitantes mediante veinte talleres dirigidos a escolares centrados en la prevención y detección de situaciones de acoso, que se pretenden combatir con la empatía, así como cuarenta sesiones de autodefensa y convivencia dirigidas a un millar de estudiantes para reforzar su seguridad y confianza.</p>
+<p style="text-align: right;"><span style="font-size: 12pt;">Fuente: <a href="https://www.malagahoy.es/malaga/alberto-diaz-perry-funes-molina-acoso-escolar_0_2006636346.html" title="">Málaga Hoy</a></span></p>
+<p><strong>2. Responde a las preguntas:</strong></p>
+<p>a. ¿De qué informa el texto?</p>
+<p>b. ¿Cuándo y dónde suceden los hechos?</p>
+<p>c. ¿Quiénes son los protagonistas de esta noticia?</p>
+<p>d. ¿En qué persona se cuentan los hechos? ¿A qué crees que se debe?</p>
+<p><br /></p>
+<h2>Estructura de la noticia</h2>
+<p>La noticia está compuesta por tres partes: el titular, la entradilla y el cuerpo. </p>
+<p>-<span style="color: #169179;"><strong>El titular</strong> </span>es un encabezado breve que recoge la información esencial de la noticia. Debe redactarse de forma clara y llamativa para captar la atención del lector. Por ello, suele aparecer en un tamaño de letra mayor y en negrita para destacarlo.</p>
+<table border="1" style="width: 100.024%; height: 68px;">
+<tbody>
+<tr style="height: 68px;">
+<td style="width: 99.8782%; text-align: center; height: 68px; border: 3px solid #169179;"><em><span style="font-size: 12pt;"><strong>Alberto Díaz, Perry, Funes, 'Chupe' y Molina participan en una campaña de Málaga contra el acoso escolar</strong></span></em></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p>-<span style="color: #f1c40f;"><strong>La entradilla</strong></span> es un párrafo que resume el contenido de la noticia. Su objetivo es informar al receptor de forma rápida y efectiva. Usualmente aparece debajo del título o como primer párrafo del cuerpo.</p>
+<table border="1" style="width: 100.024%;">
+<tbody>
+<tr>
+<td style="width: 99.8782%; text-align: center; border: 2px solid #f1c40f;"><em><span style="font-size: 12pt;"><strong>La Diputación extenderá esta acción en municipios menores de 20.000 habitantes mediante veinte talleres dirigidos a escolares centrados en la prevención</strong></span></em></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p>-<span style="color: #e03e2d;"><strong>El cuerpo</strong></span> es la parte más extensa de este género periodístico, ya que en este se presenta toda la información, que suele responder a preguntas como <strong>qué</strong> ha sucedido, <strong>quién</strong> es el protagonista, <strong>cuándo y dónde</strong> ha ocurrido, <strong>cómo</strong> se ha producido y <strong>por qué</strong> motivo. Esto se conoce en inglés como la regla de las 5W (<em>Who, What, When, Where </em>y <em>Why</em>).</p>
+<table border="1" style="width: 100.024%; height: 243.2px;">
+<tbody>
+<tr style="height: 243.2px;">
+<td style="width: 99.8782%; border: 2px solid #e03e2d; height: 243.2px;">
+<p><strong><span style="font-size: 12pt;"><em>Los jugadores de baloncesto del Unicaja Alberto Díaz y Kendrick Perry, el entrenador del Málaga, Juan Francisco Funes, el delantero 'Chupe' o el boxeador tricampeón de Europa Samuel Molina participan en la campaña 'El silencio también hace daño' de la Diputación de Málaga, que busca concienciar a la sociedad frente al acoso escolar.</em></span></strong></p>
+<p><strong><span style="font-size: 12pt;"><em>La iniciativa, que se pone en marcha con motivo del Día Internacional contra el Acoso Escolar que se conmemora este 2 de mayo, tiene como eje central un vídeo en el que participan personalidades del mundo del deporte y la cultura, además de creadores de contenido [...]</em></span></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777982704054-5byfch416","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-carousel\">\n<h2>¿Qué es la noticia?</h2>\n<p>La noticia es el género periodístico narrativo más representativo. Informa sobre hechos reales y recientes que son de interés social.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/20943515.jpg\" width=\"500\" height=\"500\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><span style=\"font-size: 12pt;\">http://www.freepik.com</span></p>\n<h2>Ejemplo de noticia</h2>\n<p><strong>1. Lee el siguiente texto:</strong></p>\n<p style=\"text-align: center;\"><strong>Alberto Díaz, Perry, Funes, 'Chupe' y Molina participan en una campaña de Málaga contra el acoso escolar</strong></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt;\">La Diputación extenderá esta acción en municipios menores de 20 000 habitantes mediante veinte talleres dirigidos a escolares centrados en la prevención</span></p>\n<p style=\"text-align: center;\"><strong><img src=\"{{context_path}}/content/resources/bee62a7e-45f8-49f4-b82b-6633fa18a4b4_16-9-aspect-ratio_1600w_0.webp\" width=\"700\" height=\"394\" alt=\"\" /></strong></p>\n<p><span style=\"font-size: 12pt;\">30 de abril 2026 - 13:46</span></p>\n<p>Los jugadores de baloncesto del Unicaja Alberto Díaz y Kendrick Perry, el entrenador del Málaga, Juan Francisco Funes, el delantero 'Chupe' o el boxeador tricampeón de Europa Samuel Molina participan en la campaña 'El silencio también hace daño' de la Diputación de Málaga, que busca concienciar a la sociedad frente al acoso escolar.</p>\n<p>La iniciativa, que se pone en marcha con motivo del Día Internacional contra el Acoso Escolar que se conmemora este 2 de mayo, tiene como eje central un vídeo en el que participan personalidades del mundo del deporte y la cultura, además de creadores de contenido.</p>\n<p>En las imágenes, el entrenador del Málaga prioriza el respeto por encima de todo; Alberto Díaz llama a la acción si se presencia acoso, y su compañero Kendrick Perry incide en que frenar el acoso es una tarea colectiva: \"todos podemos pararlo\"; y el boxeador tricampeón de Europa subraya que ser fuerte \"no es hacer daño, es defender\".</p>\n<p>Además del vídeo, la campaña incluye la difusión de un cartel que visualiza el acoso escolar de un joven en solitario, y el reparto de más de 3 000 carteles por los centros educativos, instalaciones deportivas y espacios públicos.</p>\n<p>La institución provincial extenderá esta acción en municipios menores de 20 000 habitantes mediante veinte talleres dirigidos a escolares centrados en la prevención y detección de situaciones de acoso, que se pretenden combatir con la empatía, así como cuarenta sesiones de autodefensa y convivencia dirigidas a un millar de estudiantes para reforzar su seguridad y confianza.</p>\n<p style=\"text-align: right;\"><span style=\"font-size: 12pt;\">Fuente: <a href=\"https://www.malagahoy.es/malaga/alberto-diaz-perry-funes-molina-acoso-escolar_0_2006636346.html\" title=\"\">Málaga Hoy</a></span></p>\n<p><strong>2. Responde a las preguntas:</strong></p>\n<p>a. ¿De qué informa el texto?</p>\n<p>b. ¿Cuándo y dónde suceden los hechos?</p>\n<p>c. ¿Quiénes son los protagonistas de esta noticia?</p>\n<p>d. ¿En qué persona se cuentan los hechos? ¿A qué crees que se debe?</p>\n<p><br /></p>\n<h2>Estructura de la noticia</h2>\n<p>La noticia está compuesta por tres partes: el titular, la entradilla y el cuerpo. </p>\n<p>-<span style=\"color: #169179;\"><strong>El titular</strong> </span>es un encabezado breve que recoge la información esencial de la noticia. Debe redactarse de forma clara y llamativa para captar la atención del lector. Por ello, suele aparecer en un tamaño de letra mayor y en negrita para destacarlo.</p>\n<table border=\"1\" style=\"width: 100.024%; height: 68px;\">\n<tbody>\n<tr style=\"height: 68px;\">\n<td style=\"width: 99.8782%; text-align: center; height: 68px; border: 3px solid #169179;\"><em><span style=\"font-size: 12pt;\"><strong>Alberto Díaz, Perry, Funes, 'Chupe' y Molina participan en una campaña de Málaga contra el acoso escolar</strong></span></em></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p>-<span style=\"color: #f1c40f;\"><strong>La entradilla</strong></span> es un párrafo que resume el contenido de la noticia. Su objetivo es informar al receptor de forma rápida y efectiva. Usualmente aparece debajo del título o como primer párrafo del cuerpo.</p>\n<table border=\"1\" style=\"width: 100.024%;\">\n<tbody>\n<tr>\n<td style=\"width: 99.8782%; text-align: center; border: 2px solid #f1c40f;\"><em><span style=\"font-size: 12pt;\"><strong>La Diputación extenderá esta acción en municipios menores de 20.000 habitantes mediante veinte talleres dirigidos a escolares centrados en la prevención</strong></span></em></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p>-<span style=\"color: #e03e2d;\"><strong>El cuerpo</strong></span> es la parte más extensa de este género periodístico, ya que en este se presenta toda la información, que suele responder a preguntas como <strong>qué</strong> ha sucedido, <strong>quién</strong> es el protagonista, <strong>cuándo y dónde</strong> ha ocurrido, <strong>cómo</strong> se ha producido y <strong>por qué</strong> motivo. Esto se conoce en inglés como la regla de las 5W (<em>Who, What, When, Where </em>y <em>Why</em>).</p>\n<table border=\"1\" style=\"width: 100.024%; height: 243.2px;\">\n<tbody>\n<tr style=\"height: 243.2px;\">\n<td style=\"width: 99.8782%; border: 2px solid #e03e2d; height: 243.2px;\">\n<p><strong><span style=\"font-size: 12pt;\"><em>Los jugadores de baloncesto del Unicaja Alberto Díaz y Kendrick Perry, el entrenador del Málaga, Juan Francisco Funes, el delantero 'Chupe' o el boxeador tricampeón de Europa Samuel Molina participan en la campaña 'El silencio también hace daño' de la Diputación de Málaga, que busca concienciar a la sociedad frente al acoso escolar.</em></span></strong></p>\n<p><strong><span style=\"font-size: 12pt;\"><em>La iniciativa, que se pone en marcha con motivo del Día Internacional contra el Acoso Escolar que se conmemora este 2 de mayo, tiene como eje central un vídeo en el que participan personalidades del mundo del deporte y la cultura, además de creadores de contenido [...]</em></span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkeu-zerm6o0q0</odePageId>
+      <odeBlockId>block-1777982976764-n8p601plk</odeBlockId>
+      <blockName>Actividad: Escribe una noticia absurda</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkeu-zerm6o0q0</odePageId>
+          <odeBlockId>block-1777982976764-n8p601plk</odeBlockId>
+          <odeIdeviceId>idevice-1777982976763-7kpdol1wv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En parejas, redactad una noticia (mínimo 100 palabras) de carácter absurdo o imaginativo siguiendo las convenciones propias del género periodístico. El texto deberá incluir los elementos básicos de una noticia (<span style="color: #2dc26b;">titular</span>, <span style="color: #f1c40f;">entradilla</span> y <span style="color: #e03e2d;">cuerpo</span>), emplear un lenguaje claro y objetivo, y responder a las preguntas fundamentales (<strong>qué, quién, cuándo, dónde y por qué</strong>), aunque el contenido sea ficticio o disparatado. Se valorará especialmente la coherencia interna del texto, la creatividad en el planteamiento y el respeto a la estructura y estilo propios de la noticia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777982976763-7kpdol1wv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En parejas, redactad una noticia (mínimo 100 palabras) de carácter absurdo o imaginativo siguiendo las convenciones propias del género periodístico. El texto deberá incluir los elementos básicos de una noticia (<span style=\"color: #2dc26b;\">titular</span>, <span style=\"color: #f1c40f;\">entradilla</span> y <span style=\"color: #e03e2d;\">cuerpo</span>), emplear un lenguaje claro y objetivo, y responder a las preguntas fundamentales (<strong>qué, quién, cuándo, dónde y por qué</strong>), aunque el contenido sea ficticio o disparatado. Se valorará especialmente la coherencia interna del texto, la creatividad en el planteamiento y el respeto a la estructura y estilo propios de la noticia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkeu-zerm6o0q0</odePageId>
+      <odeBlockId>block-1777983051146-rxrwma9pb</odeBlockId>
+      <blockName>Herramientas digitales</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkeu-zerm6o0q0</odePageId>
+          <odeBlockId>block-1777983051146-rxrwma9pb</odeBlockId>
+          <odeIdeviceId>idevice-1777983051143-dm3e28nft</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li title="">Realiza esta actividad ("Escribe una noticia absurda") mediante <a href="https://docs.google.com/document/create?hl=es">Google Docs</a>.</li>
+<li title="">Sube el resultado en formato PDF a <a href="https://support.google.com/edu/classroom/answer/6072460?hl=es&co=GENIE.Platform%3DDesktop">Google Classroom</a>.</li>
+</ul>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777983051143-dm3e28nft","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li title=\"\">Realiza esta actividad (\"Escribe una noticia absurda\") mediante <a href=\"https://docs.google.com/document/create?hl=es\">Google Docs</a>.</li>\n<li title=\"\">Sube el resultado en formato PDF a <a href=\"https://support.google.com/edu/classroom/answer/6072460?hl=es&co=GENIE.Platform%3DDesktop\">Google Classroom</a>.</li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkeu-zerm6o0q0</odePageId>
+      <odeBlockId>block-1777982642544-pwttj1d92</odeBlockId>
+      <blockName>Línea temporal para la organización de la SdA</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkeu-zerm6o0q0</odePageId>
+          <odeBlockId>block-1777982642544-pwttj1d92</odeBlockId>
+          <odeIdeviceId>idevice-1777982642542-fgwqrlogl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/BUENAS NOTICIAS (1).png" width="600" height="450" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Canva Educación</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777982642542-fgwqrlogl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/BUENAS NOTICIAS (1).png\" width=\"600\" height=\"450\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Canva Educación</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkew-83pnez6iy</odePageId>
+  <odeParentPageId>page-mowutkeq-sk6ja3dfh</odeParentPageId>
+  <pageName>Sesiones 2 y 3. Fake news</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 2 y 3. Fake news</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 2 y 3. Fake news</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesiones 2 y 3. Fake news</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkew-83pnez6iy</odePageId>
+      <odeBlockId>block-1777922611475-bedxetbzc</odeBlockId>
+      <blockName>Fake news y bulos</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkew-83pnez6iy</odePageId>
+          <odeBlockId>block-1777922611475-bedxetbzc</odeBlockId>
+          <odeIdeviceId>idevice-1777922611473-h227ws3rs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><br /></p>
+<p style="text-align: justify;">El gran crecimiento de las interacciones en internet y la expansión de los espacios digitales dedicados a compartir todo tipo de contenidos han ido acompañados, en los últimos años, de un aumento de las noticias falsas, también conocidas como bulos. Con frecuencia, detrás de estas informaciones engañosas hay un intento de influir en la opinión pública o de obtener beneficios económicos. Por ello, es fundamental comprobar la fiabilidad de las fuentes y adoptar una actitud crítica ante lo que leemos y difundimos en las redes sociales.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/las-supernenas.webp" width="600" height="338" alt="" /></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Visualiza este vídeo en <a href="https://www.youtube.com/watch?v=UXrnv7Xl_L0" title="">Youtube</a></span></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777922611473-h227ws3rs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: justify;\">El gran crecimiento de las interacciones en internet y la expansión de los espacios digitales dedicados a compartir todo tipo de contenidos han ido acompañados, en los últimos años, de un aumento de las noticias falsas, también conocidas como bulos. Con frecuencia, detrás de estas informaciones engañosas hay un intento de influir en la opinión pública o de obtener beneficios económicos. Por ello, es fundamental comprobar la fiabilidad de las fuentes y adoptar una actitud crítica ante lo que leemos y difundimos en las redes sociales.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/las-supernenas.webp\" width=\"600\" height=\"338\" alt=\"\" /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12pt;\">Visualiza este vídeo en <a href=\"https://www.youtube.com/watch?v=UXrnv7Xl_L0\" title=\"\">Youtube</a></span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkew-83pnez6iy</odePageId>
+      <odeBlockId>block-1777996615598-nplbc4xqc</odeBlockId>
+      <blockName>Actividades</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkew-83pnez6iy</odePageId>
+          <odeBlockId>block-1777996615598-nplbc4xqc</odeBlockId>
+          <odeIdeviceId>idevice-1777996615596-6690jli7l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-tabs">
+<h2>Actividad 1</h2>
+<p>¿Cuál de estas noticias es verdadera? Ten en cuenta la veracidad, la aparición completa de datos, el uso del <em>clickbait</em>...</p>
+<p><a href="https://view.genially.com/69fa5afc7114ae5eaf5cf48b" title="">Accede a Genially</a></p>
+<h2>Actividad 2</h2>
+<p>Este trabajo tiene como objetivo demostrar la capacidad de buscar información contrastada para crear discursos argumentativos. Así, entregarás tres fichas escritas a mano o a ordenador y un discurso argumentativo basándote en las fuentes de información buscadas. A continuación, se especifica el procedimiento para realizar este proyecto.</p>
+<p>Elige uno de estos temas de actualidad:<br />-Uso del móvil en el aula.<br />-Prohibición de las redes sociales a menores de 16 años.<br />-Deberes escolares en casa.<br />-Redes sociales y salud mental en adolescentes.<br />-Turismo en Andalucía y sus efectos en el barrio/ciudad.<br /><br />Busca información en, al menos, tres tipos de fuentes:<br />-Una fuente institucional (web de la Junta de Andalucía, ayuntamientos, organismos oficiales).<br />-Una fuente periodística (diarios digitales, revistas, prensa local).<br />-Una fuente de opinión o divulgación (artículos de divulgación, blogs educativos, asociaciones, etc.).<br /></p>
+<p>Realizarás una ficha por cada fuente de información. Dicho dossier contendrá lo siguiente:<br />-Referencia básica (título, autor si aparece, medio, fecha, enlace).<br />-Tema.<br />-Datos o ejemplos que puedes usar.<br />-Valoración crítica: por qué consideras que es fiable o no (lenguaje, intención, quién la publica, datos que recoge, ¿es un clickbait?).​</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996615596-6690jli7l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>Actividad 1</h2>\n<p>¿Cuál de estas noticias es verdadera? Ten en cuenta la veracidad, la aparición completa de datos, el uso del <em>clickbait</em>...</p>\n<p><a href=\"https://view.genially.com/69fa5afc7114ae5eaf5cf48b\" title=\"\">Accede a Genially</a></p>\n<h2>Actividad 2</h2>\n<p>Este trabajo tiene como objetivo demostrar la capacidad de buscar información contrastada para crear discursos argumentativos. Así, entregarás tres fichas escritas a mano o a ordenador y un discurso argumentativo basándote en las fuentes de información buscadas. A continuación, se especifica el procedimiento para realizar este proyecto.</p>\n<p>Elige uno de estos temas de actualidad:<br />-Uso del móvil en el aula.<br />-Prohibición de las redes sociales a menores de 16 años.<br />-Deberes escolares en casa.<br />-Redes sociales y salud mental en adolescentes.<br />-Turismo en Andalucía y sus efectos en el barrio/ciudad.<br /><br />Busca información en, al menos, tres tipos de fuentes:<br />-Una fuente institucional (web de la Junta de Andalucía, ayuntamientos, organismos oficiales).<br />-Una fuente periodística (diarios digitales, revistas, prensa local).<br />-Una fuente de opinión o divulgación (artículos de divulgación, blogs educativos, asociaciones, etc.).<br /></p>\n<p>Realizarás una ficha por cada fuente de información. Dicho dossier contendrá lo siguiente:<br />-Referencia básica (título, autor si aparece, medio, fecha, enlace).<br />-Tema.<br />-Datos o ejemplos que puedes usar.<br />-Valoración crítica: por qué consideras que es fiable o no (lenguaje, intención, quién la publica, datos que recoge, ¿es un clickbait?).​</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkew-83pnez6iy</odePageId>
+      <odeBlockId>block-1777996643341-ivzemj41u</odeBlockId>
+      <blockName>Herramientas digitales</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkew-83pnez6iy</odePageId>
+          <odeBlockId>block-1777996643341-ivzemj41u</odeBlockId>
+          <odeIdeviceId>idevice-1777996643340-g0u0q9g50</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li title="">Realiza la actividad "Descarta las <em>fake news</em>" desde <a href="https://view.genially.com/69fa5afc7114ae5eaf5cf48b">Genially</a>.</li>
+<li title="">Realiza la actividad "Dossier de fuentes fiables" mediante <a href="https://workspace.google.com/intl/es/products/docs/">Google Docs</a>.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996643340-g0u0q9g50","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li title=\"\">Realiza la actividad \"Descarta las <em>fake news</em>\" desde <a href=\"https://view.genially.com/69fa5afc7114ae5eaf5cf48b\">Genially</a>.</li>\n<li title=\"\">Realiza la actividad \"Dossier de fuentes fiables\" mediante <a href=\"https://workspace.google.com/intl/es/products/docs/\">Google Docs</a>.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkew-83pnez6iy</odePageId>
+      <odeBlockId>block-1777996668275-t4jqj9xex</odeBlockId>
+      <blockName>Línea temporal para la organización de la SdA</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkew-83pnez6iy</odePageId>
+          <odeBlockId>block-1777996668275-t4jqj9xex</odeBlockId>
+          <odeIdeviceId>idevice-1777996668274-okrgvhzwv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/BUENAS NOTICIAS (3).png" width="600" height="450" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/BUENAS NOTICIAS (2).png" width="600" height="450" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Canva Educación</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996668274-okrgvhzwv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/BUENAS NOTICIAS (3).png\" width=\"600\" height=\"450\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/BUENAS NOTICIAS (2).png\" width=\"600\" height=\"450\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Canva Educación</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkey-7o2my77ki</odePageId>
+  <odeParentPageId>page-mowutkeq-sk6ja3dfh</odeParentPageId>
+  <pageName>Sesión 4. Decálogo del buen uso de las fuentes de información</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4. Decálogo del buen uso de las fuentes de información</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4. Decálogo del buen uso de las fuentes de información</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkey-7o2my77ki</odePageId>
+      <odeBlockId>block-1778057661500-pzvkif0bm</odeBlockId>
+      <blockName>¿Qué es un decálogo?</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkey-7o2my77ki</odePageId>
+          <odeBlockId>block-1778057661500-pzvkif0bm</odeBlockId>
+          <odeIdeviceId>idevice-1778057661492-itah1lovv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Un decálogo es un conjunto de diez normas, consejos o reglas fundamentales para realizar una actividad específica, organizados en lista. Se utiliza para guiar el comportamiento, promover valores éticos o establecer pautas en el ámbito empresarial o profesional.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778057661492-itah1lovv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un decálogo es un conjunto de diez normas, consejos o reglas fundamentales para realizar una actividad específica, organizados en lista. Se utiliza para guiar el comportamiento, promover valores éticos o establecer pautas en el ámbito empresarial o profesional.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkey-7o2my77ki</odePageId>
+      <odeBlockId>block-1778015793870-2xdou694p</odeBlockId>
+      <blockName>Actividad</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkey-7o2my77ki</odePageId>
+          <odeBlockId>block-1778015793870-2xdou694p</odeBlockId>
+          <odeIdeviceId>idevice-1778015793871-t319crdlh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este caso, realizaremos en grupos de tres un decálogo que recoja diez consejos de cómo utilizar manera ética las tecnologías.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778015793871-t319crdlh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este caso, realizaremos en grupos de tres un decálogo que recoja diez consejos de cómo utilizar manera ética las tecnologías.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkey-7o2my77ki</odePageId>
+      <odeBlockId>block-1778015817877-tut8ppuw6</odeBlockId>
+      <blockName>Herramientas digitales</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkey-7o2my77ki</odePageId>
+          <odeBlockId>block-1778015817877-tut8ppuw6</odeBlockId>
+          <odeIdeviceId>idevice-1778015817877-rmlxo4tzk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li title="">Realiza la actividad "Decálogo de las buenas prácticas" desde <a href="https://easel.ly/">Easel.ly</a><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778015817877-rmlxo4tzk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li title=\"\">Realiza la actividad \"Decálogo de las buenas prácticas\" desde <a href=\"https://easel.ly/\">Easel.ly</a><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkey-7o2my77ki</odePageId>
+      <odeBlockId>block-1778015804813-iadhvlvic</odeBlockId>
+      <blockName>Línea temporal para la organización de la SdA</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkey-7o2my77ki</odePageId>
+          <odeBlockId>block-1778015804813-iadhvlvic</odeBlockId>
+          <odeIdeviceId>idevice-1778015804813-k1d9yamrs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/BUENAS NOTICIAS (4).png" width="600" height="450" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Canva Educación</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778015804813-k1d9yamrs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/BUENAS NOTICIAS (4).png\" width=\"600\" height=\"450\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Canva Educación</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkf0-njq732snn</odePageId>
+  <odeParentPageId>page-mowutkeq-sk6ja3dfh</odeParentPageId>
+  <pageName>Sesión 5. La rueda de las emociones</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5. La rueda de las emociones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5. La rueda de las emociones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkf0-njq732snn</odePageId>
+      <odeBlockId>block-1778057775825-zcqkpw5yg</odeBlockId>
+      <blockName>El impacto de las noticias en nuestras emociones: infoxicación</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf0-njq732snn</odePageId>
+          <odeBlockId>block-1778057775825-zcqkpw5yg</odeBlockId>
+          <odeIdeviceId>idevice-1778057775825-wb0qw5ocj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Cuántas veces al día sueles desbloquear tu móvil o tu ordenador para revisar contenido en redes sociales o en Internet? La infoxicación es la sobrecarga de información, repercutiendo en nuestro estado anímico. Nos puede hacer sentir abrumados, ansiosos o irritables.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778057775825-wb0qw5ocj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Cuántas veces al día sueles desbloquear tu móvil o tu ordenador para revisar contenido en redes sociales o en Internet? La infoxicación es la sobrecarga de información, repercutiendo en nuestro estado anímico. Nos puede hacer sentir abrumados, ansiosos o irritables.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkf0-njq732snn</odePageId>
+      <odeBlockId>block-1778058300978-ie32sk4ki</odeBlockId>
+      <blockName>Actividad</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf0-njq732snn</odePageId>
+          <odeBlockId>block-1778058300978-ie32sk4ki</odeBlockId>
+          <odeIdeviceId>idevice-1778058300979-08fraua44</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Buscaremos una noticia o contenido de Internet (vídeo) y debatiremos: ¿qué sentimientos nos produce?</p>
+<figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/Rueda de las emociones.png" width="600" height="600" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Canva Educación</em></span></figcaption>
+</figure>
+<p>De manera individual, crearemos 5 preguntas que evalúen los sentimientos que surgen de la información en prensa y redes sociales (RRSS). Tomaremos de referencia el cuestionario PROXYMO.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778058300979-08fraua44","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buscaremos una noticia o contenido de Internet (vídeo) y debatiremos: ¿qué sentimientos nos produce?</p>\n<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/Rueda de las emociones.png\" width=\"600\" height=\"600\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Canva Educación</em></span></figcaption>\n</figure>\n<p>De manera individual, crearemos 5 preguntas que evalúen los sentimientos que surgen de la información en prensa y redes sociales (RRSS). Tomaremos de referencia el cuestionario PROXYMO.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkf0-njq732snn</odePageId>
+      <odeBlockId>block-1778058352039-qw28eqt85</odeBlockId>
+      <blockName>Herramientas digitales</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf0-njq732snn</odePageId>
+          <odeBlockId>block-1778058352039-qw28eqt85</odeBlockId>
+          <odeIdeviceId>idevice-1778058352039-kuzxruzuz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li title="">Realiza la actividad desde <a href="https://docs.google.com/forms/u/0/" title="">Google Forms</a><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778058352039-kuzxruzuz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li title=\"\">Realiza la actividad desde <a href=\"https://docs.google.com/forms/u/0/\" title=\"\">Google Forms</a><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkf0-njq732snn</odePageId>
+      <odeBlockId>block-1778058165794-7tgai84qv</odeBlockId>
+      <blockName>Línea temporal para la organización de la SdA</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf0-njq732snn</odePageId>
+          <odeBlockId>block-1778058165794-7tgai84qv</odeBlockId>
+          <odeIdeviceId>idevice-1778058165796-xbybfwbtx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/BUENAS NOTICIAS (5).png" width="600" height="450" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Canva Educación</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778058165796-xbybfwbtx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/BUENAS NOTICIAS (5).png\" width=\"600\" height=\"450\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Canva Educación</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkf2-2uy8mb43r</odePageId>
+  <odeParentPageId>page-mowutkeq-sk6ja3dfh</odeParentPageId>
+  <pageName>Sesiones 6 y 7. Recopilación de noticias positivas</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 6 y 7. Recopilación de noticias positivas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 6 y 7. Recopilación de noticias positivas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkf2-2uy8mb43r</odePageId>
+      <odeBlockId>block-1778063153140-j64nlionc</odeBlockId>
+      <blockName>Actividad</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf2-2uy8mb43r</odePageId>
+          <odeBlockId>block-1778063153140-j64nlionc</odeBlockId>
+          <odeIdeviceId>idevice-1778063153141-z6mcea18t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Llegamos a la recta final. En grupos de cinco, recopilaremos quince noticias positivas y las clasificaremos en secciones (por ejemplo: Economía, Sociedad, Ciencia, Cultura, Deportes). </p>
+<p>Algunas fuentes de información:</p>
+<p>-El País.</p>
+<p>-El Mundo.</p>
+<p>-La cara buena del mundo.</p>
+<p>-RTVE Play.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778063153141-z6mcea18t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Llegamos a la recta final. En grupos de cinco, recopilaremos quince noticias positivas y las clasificaremos en secciones (por ejemplo: Economía, Sociedad, Ciencia, Cultura, Deportes). </p>\n<p>Algunas fuentes de información:</p>\n<p>-El País.</p>\n<p>-El Mundo.</p>\n<p>-La cara buena del mundo.</p>\n<p>-RTVE Play.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkf2-2uy8mb43r</odePageId>
+      <odeBlockId>block-1778085774984-9r86mofus</odeBlockId>
+      <blockName>Herramientas digitales</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf2-2uy8mb43r</odePageId>
+          <odeBlockId>block-1778085774984-9r86mofus</odeBlockId>
+          <odeIdeviceId>idevice-1778085774985-58y482nux</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li title="">Realiza la actividad en <a href="https://about.flipboard.com/">Flipboard</a> o <a href="https://padlet.com/">Padlet</a><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778085774985-58y482nux","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li title=\"\">Realiza la actividad en <a href=\"https://about.flipboard.com/\">Flipboard</a> o <a href=\"https://padlet.com/\">Padlet</a><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkf2-2uy8mb43r</odePageId>
+      <odeBlockId>block-1778087569548-zm6qyl3sn</odeBlockId>
+      <blockName>Línea temporal para la organización de la SdA</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf2-2uy8mb43r</odePageId>
+          <odeBlockId>block-1778087569548-zm6qyl3sn</odeBlockId>
+          <odeIdeviceId>idevice-1778087569549-ie0z7u9ow</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/BUENAS NOTICIAS (6).png" width="600" height="450" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Canva Educación</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778087569549-ie0z7u9ow","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/BUENAS NOTICIAS (6).png\" width=\"600\" height=\"450\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Canva Educación</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkf4-jky82mqcr</odePageId>
+  <odeParentPageId>page-mowutkeq-sk6ja3dfh</odeParentPageId>
+  <pageName>Sesiones 8 y 9. Maquetación del periódico &quot;Buenas noticias&quot;</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 8 y 9. Maquetación del periódico &quot;Buenas noticias&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones 8 y 9. Maquetación del periódico &quot;Buenas noticias&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkf4-jky82mqcr</odePageId>
+      <odeBlockId>block-1778086481875-9nn8646cg</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf4-jky82mqcr</odePageId>
+          <odeBlockId>block-1778086481875-9nn8646cg</odeBlockId>
+          <odeIdeviceId>idevice-1778086481875-ow3ns5pbb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En grupos de cinco, maquetaremos las quince noticias recopiladas. Hay que tener en cuenta los siguientes elementos para crear un periódico:</p>
+<p>-Nombre del periódico y lema o cabecera.</p>
+<p>-Fecha y número de edición.</p>
+<p>-Portada.</p>
+<p>-Imágenes. Pie de foto.</p>
+<p>-Secciones como actualidad, cultura, deportes, entrevistas o opinión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086481875-ow3ns5pbb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En grupos de cinco, maquetaremos las quince noticias recopiladas. Hay que tener en cuenta los siguientes elementos para crear un periódico:</p>\n<p>-Nombre del periódico y lema o cabecera.</p>\n<p>-Fecha y número de edición.</p>\n<p>-Portada.</p>\n<p>-Imágenes. Pie de foto.</p>\n<p>-Secciones como actualidad, cultura, deportes, entrevistas o opinión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkf4-jky82mqcr</odePageId>
+      <odeBlockId>block-1778086436003-l86i0wp0q</odeBlockId>
+      <blockName>Herramientas digitales</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf4-jky82mqcr</odePageId>
+          <odeBlockId>block-1778086436003-l86i0wp0q</odeBlockId>
+          <odeIdeviceId>idevice-1778086436004-29f0jdgf2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li title="">Realiza la actividad en <a href="https://www.canva.com/">Canva</a>.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086436004-29f0jdgf2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li title=\"\">Realiza la actividad en <a href=\"https://www.canva.com/\">Canva</a>.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkf4-jky82mqcr</odePageId>
+      <odeBlockId>block-1778062978356-d4bsc2xr3</odeBlockId>
+      <blockName>Línea temporal para la organización de la SdA</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf4-jky82mqcr</odePageId>
+          <odeBlockId>block-1778062978356-d4bsc2xr3</odeBlockId>
+          <odeIdeviceId>idevice-1778062978357-q9lh69j8o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/BUENAS NOTICIAS (7).png" width="600" height="450" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Canva Educación</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778062978357-q9lh69j8o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/BUENAS NOTICIAS (7).png\" width=\"600\" height=\"450\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Canva Educación</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkf6-b1yenqzqr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkf6-b1yenqzqr</odePageId>
+      <odeBlockId>block-1777919444164-jq6tzvpw5</odeBlockId>
+      <blockName>Técnicas de evaluación</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf6-b1yenqzqr</odePageId>
+          <odeBlockId>block-1777919444164-jq6tzvpw5</odeBlockId>
+          <odeIdeviceId>idevice-1777919444163-e72nzc7au</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Observación directa y sistemática.</li>
+<li>Diálogo continuo y preguntas al alumnado.</li>
+<li>Revisión y valoración de las producciones realizadas por el alumnado.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777919444163-e72nzc7au","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Observación directa y sistemática.</li>\n<li>Diálogo continuo y preguntas al alumnado.</li>\n<li>Revisión y valoración de las producciones realizadas por el alumnado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mowutkf6-b1yenqzqr</odePageId>
+      <odeBlockId>block-1777919631988-ad148qswq</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf6-b1yenqzqr</odePageId>
+          <odeBlockId>block-1777919631988-ad148qswq</odeBlockId>
+          <odeIdeviceId>idevice-1777919631986-txw6tque5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span style="text-decoration: underline;">RÚBRICA PARA LA CREACIÓN DE LA NOTICIA</span></strong></p>
+<p style="text-align: center;"><iframe width="600" height="300" src="{{context_path}}/content/resources/Rúbrica_-_Rúbrica_noticia_.pdf"></iframe></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>RÚBRICA PARA EVALUAR EL TRABAJO DE LAS FUENTES FIABLES</strong></span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong><iframe width="600" height="300" src="{{context_path}}/content/resources/Rúbrica_-_Rúbrica_noticia_.pdf"></iframe></strong></span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>RÚBRICA PARA EL PRODUCTO FINAL: PERIÓDICO DE NOTICIAS POSITIVAS</strong></span></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong><iframe width="600" height="300" src="{{context_path}}/content/resources/Rúbrica_-_Rúbrica_Buenas_noticias_.pdf"></iframe></strong></span></p>
+<p style="text-align: center;"><br /><span style="text-decoration: underline;"><strong>ACTIVIDAD DE AUTOEVALUACIÓN Y COEVALUACIÓN</strong></span></p>
+<p><br /></p>
+<p><strong>1. Responde con sinceridad a las preguntas correspondientes a tu trabajo en equipo:</strong><br /></p>
+<table border="1" style="width: 100.023%; height: 876.8px;">
+<tbody>
+<tr style="height: 124px;">
+<td style="width: 24.971%; height: 124px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 124px; background-color: #bfedd2; border: 2px solid #000000; text-align: center;"><strong>SÍ</strong></td>
+<td style="width: 24.971%; height: 124px; background-color: #fbeeb8; border: 2px solid #000000; text-align: center;"><strong>MÁS O MENOS/PODRÍA MEJORAR ESTE ASPECTO</strong></td>
+<td style="width: 24.971%; height: 124px; background-color: #f8cac6; border: 2px solid #000000; text-align: center;"><strong>NO</strong></td>
+</tr>
+<tr style="height: 66.4px;">
+<td style="width: 24.971%; height: 66.4px; border: 2px solid #000000;">He aportado ideas al grupo.</td>
+<td style="width: 24.971%; height: 66.4px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 66.4px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 66.4px; border: 2px solid #000000;"><br /></td>
+</tr>
+<tr style="height: 66.4px;">
+<td style="width: 24.971%; height: 66.4px; border: 2px solid #000000;">He participado en las tareas asignadas.</td>
+<td style="width: 24.971%; height: 66.4px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 66.4px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 66.4px; border: 2px solid #000000;"><br /></td>
+</tr>
+<tr style="height: 124px;">
+<td style="width: 24.971%; height: 124px; border: 2px solid #000000;">He realizado las tareas asignadas en la fecha propuesta por el grupo.</td>
+<td style="width: 24.971%; height: 124px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 124px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 124px; border: 2px solid #000000;"><br /></td>
+</tr>
+<tr style="height: 95.2px;">
+<td style="width: 24.971%; height: 95.2px; border: 2px solid #000000;">He estado motivado/a a ayudar en todo momento a mi equipo.</td>
+<td style="width: 24.971%; height: 95.2px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 95.2px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 95.2px; border: 2px solid #000000;"><br /></td>
+</tr>
+<tr style="height: 181.6px;">
+<td style="width: 24.971%; height: 181.6px; border: 2px solid #000000;">He liderado mi equipo, mostrando buen ejemplo y comprobando el progreso adecuado del trabajo.</td>
+<td style="width: 24.971%; height: 181.6px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 181.6px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 181.6px; border: 2px solid #000000;"><br /></td>
+</tr>
+<tr style="height: 124px;">
+<td style="width: 24.971%; height: 124px; border: 2px solid #000000;">No he liderado mi equipo, pero estoy satisfecho con la tarea que realicé.</td>
+<td style="width: 24.971%; height: 124px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 124px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 124px; border: 2px solid #000000;"><br /></td>
+</tr>
+<tr style="height: 95.2px;">
+<td style="width: 24.971%; height: 95.2px; border: 2px solid #000000;">No he liderado mi equipo, participando poco en las tareas.</td>
+<td style="width: 24.971%; height: 95.2px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 95.2px; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; height: 95.2px; border: 2px solid #000000;"></td>
+</tr>
+<tr>
+<td style="width: 24.971%; border: 2px solid #000000;">He resuelto eficazmente problemas y situaciones complejas.</td>
+<td style="width: 24.971%; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; border: 2px solid #000000;"><br /></td>
+<td style="width: 24.971%; border: 2px solid #000000;"><br /></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><strong>2. ¿Cuál consideras que ha sido tu mayor fuerte y debilidad en el trabajo? Justifica tu respuesta.</strong></p>
+<p><br /></p>
+<p style="text-align: center;">Descarga este documento en <a href="{{context_path}}/content/resources/AUTOEVALUACIÓN Y COEVALUACIÓN (1).pdf" title="AUTOEVALUACIÓN Y COEVALUACIÓN (1).pdf">PDF</a></p>
+<p><br /></p>
+<p><br /></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777919631986-txw6tque5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">RÚBRICA PARA LA CREACIÓN DE LA NOTICIA</span></strong></p>\n<p style=\"text-align: center;\"><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Rúbrica_-_Rúbrica_noticia_.pdf\"></iframe></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>RÚBRICA PARA EVALUAR EL TRABAJO DE LAS FUENTES FIABLES</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Rúbrica_-_Rúbrica_noticia_.pdf\"></iframe></strong></span></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>RÚBRICA PARA EL PRODUCTO FINAL: PERIÓDICO DE NOTICIAS POSITIVAS</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Rúbrica_-_Rúbrica_Buenas_noticias_.pdf\"></iframe></strong></span></p>\n<p style=\"text-align: center;\"><br /><span style=\"text-decoration: underline;\"><strong>ACTIVIDAD DE AUTOEVALUACIÓN Y COEVALUACIÓN</strong></span></p>\n<p><br /></p>\n<p><strong>1. Responde con sinceridad a las preguntas correspondientes a tu trabajo en equipo:</strong><br /></p>\n<table border=\"1\" style=\"width: 100.023%; height: 876.8px;\">\n<tbody>\n<tr style=\"height: 124px;\">\n<td style=\"width: 24.971%; height: 124px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 124px; background-color: #bfedd2; border: 2px solid #000000; text-align: center;\"><strong>SÍ</strong></td>\n<td style=\"width: 24.971%; height: 124px; background-color: #fbeeb8; border: 2px solid #000000; text-align: center;\"><strong>MÁS O MENOS/PODRÍA MEJORAR ESTE ASPECTO</strong></td>\n<td style=\"width: 24.971%; height: 124px; background-color: #f8cac6; border: 2px solid #000000; text-align: center;\"><strong>NO</strong></td>\n</tr>\n<tr style=\"height: 66.4px;\">\n<td style=\"width: 24.971%; height: 66.4px; border: 2px solid #000000;\">He aportado ideas al grupo.</td>\n<td style=\"width: 24.971%; height: 66.4px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 66.4px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 66.4px; border: 2px solid #000000;\"><br /></td>\n</tr>\n<tr style=\"height: 66.4px;\">\n<td style=\"width: 24.971%; height: 66.4px; border: 2px solid #000000;\">He participado en las tareas asignadas.</td>\n<td style=\"width: 24.971%; height: 66.4px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 66.4px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 66.4px; border: 2px solid #000000;\"><br /></td>\n</tr>\n<tr style=\"height: 124px;\">\n<td style=\"width: 24.971%; height: 124px; border: 2px solid #000000;\">He realizado las tareas asignadas en la fecha propuesta por el grupo.</td>\n<td style=\"width: 24.971%; height: 124px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 124px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 124px; border: 2px solid #000000;\"><br /></td>\n</tr>\n<tr style=\"height: 95.2px;\">\n<td style=\"width: 24.971%; height: 95.2px; border: 2px solid #000000;\">He estado motivado/a a ayudar en todo momento a mi equipo.</td>\n<td style=\"width: 24.971%; height: 95.2px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 95.2px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 95.2px; border: 2px solid #000000;\"><br /></td>\n</tr>\n<tr style=\"height: 181.6px;\">\n<td style=\"width: 24.971%; height: 181.6px; border: 2px solid #000000;\">He liderado mi equipo, mostrando buen ejemplo y comprobando el progreso adecuado del trabajo.</td>\n<td style=\"width: 24.971%; height: 181.6px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 181.6px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 181.6px; border: 2px solid #000000;\"><br /></td>\n</tr>\n<tr style=\"height: 124px;\">\n<td style=\"width: 24.971%; height: 124px; border: 2px solid #000000;\">No he liderado mi equipo, pero estoy satisfecho con la tarea que realicé.</td>\n<td style=\"width: 24.971%; height: 124px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 124px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 124px; border: 2px solid #000000;\"><br /></td>\n</tr>\n<tr style=\"height: 95.2px;\">\n<td style=\"width: 24.971%; height: 95.2px; border: 2px solid #000000;\">No he liderado mi equipo, participando poco en las tareas.</td>\n<td style=\"width: 24.971%; height: 95.2px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 95.2px; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; height: 95.2px; border: 2px solid #000000;\"></td>\n</tr>\n<tr>\n<td style=\"width: 24.971%; border: 2px solid #000000;\">He resuelto eficazmente problemas y situaciones complejas.</td>\n<td style=\"width: 24.971%; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; border: 2px solid #000000;\"><br /></td>\n<td style=\"width: 24.971%; border: 2px solid #000000;\"><br /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><strong>2. ¿Cuál consideras que ha sido tu mayor fuerte y debilidad en el trabajo? Justifica tu respuesta.</strong></p>\n<p><br /></p>\n<p style=\"text-align: center;\">Descarga este documento en <a href=\"{{context_path}}/content/resources/AUTOEVALUACIÓN Y COEVALUACIÓN (1).pdf\" title=\"AUTOEVALUACIÓN Y COEVALUACIÓN (1).pdf\">PDF</a></p>\n<p><br /></p>\n<p><br /></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowutkf7-ualyvvdc1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowutkf7-ualyvvdc1</odePageId>
+      <odeBlockId>block-1778013485972-i2oirtvyv</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowutkf7-ualyvvdc1</odePageId>
+          <odeBlockId>block-1778013485972-i2oirtvyv</odeBlockId>
+          <odeIdeviceId>idevice-1778013485971-fkihimgsg</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Buenas noticias</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje para 2.º ESO en la materia de Lengua Castellana y Literatura</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Lourdes Herrero Beltrán</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
